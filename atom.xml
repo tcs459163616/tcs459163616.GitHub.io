@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tcs459163616.GitHub.io</id>
     <title>Gridea</title>
-    <updated>2020-07-12T09:09:03.964Z</updated>
+    <updated>2020-07-12T10:17:41.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tcs459163616.GitHub.io"/>
     <link rel="self" href="https://tcs459163616.GitHub.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-06-16T01:25:16.000Z</updated>
         <content type="html"><![CDATA[<p>毕业了，整理一下研究生阶段使用的一些不错的网址，软件，工具之类的。想到什么就写什么~</p>
-<h1 id="一-系统增强类">一、系统增强类</h1>
+<h1 id="一-软件">一、软件</h1>
 <h2 id="1-everything">1、Everything</h2>
 <p>众所周知，windows系统的自带搜索是超级难用，搜索太慢。后来偶然了解到了Everything这个软件，不得不说，确实十分强大，下载链接<a href="https://www.voidtools.com/zh-cn/">Everything</a>。<br>
 下面这个动态图展示的是我想查找一个word文档，文件名中至少包含毕业两个字，其中*是正则匹配，帮助文档中有说明，可以看出基本是秒搜，不会出现windows那种一直卡在搜索进度条加载的情况。<img src="https://tcs459163616.GitHub.io/post-images/1592271964110.gif" alt="" loading="lazy"><br>
@@ -30,29 +30,67 @@
 <h2 id="4listary">4.Listary</h2>
 <p>Listary和上面的Everything有点类似，也带搜索功能。下面以打开QQ为例，使用也很简单，打开软件后双击Ctrl键即可以使用软件，展示如下：<img src="https://tcs459163616.GitHub.io/post-images/1594542801179.gif" alt="" loading="lazy"><br>
 下载链接是<a href="https://pan.baidu.com/s/1kVBrlcz">Listary Pro</a>，提取码：xkdt。<br>
-Listary Pro具有如下特点：<br>
-随打即找：无需目标文件/文件夹的完整名称，只需根据自己的记忆输入，无论是文件名的前缀、后缀或其他任意部分，结果即时呈现。在大量文件中寻找某个文件或寻找很久以前名称以及已模糊的文件时，很有用。<br>
-磁盘搜索：Listary 使用了与 Everything 类似的原理，因此可快速访问磁盘中各个角落的文件，无论硬盘多大、文件在多深的目录。这种特性非常适合于如今大容量硬盘、系统中常常包含几十上百万甚至更多文件的情况。<br>
-快速切换：在文件管理器或文件打开/保存对话框中浏览时，可直接跳到任何文件夹，无论它们在其他驱动器或哪个位置，具体包括：<br>
+Listary Pro具有如下特点：</p>
+<ul>
+<li>随打即找：无需目标文件/文件夹的完整名称，只需根据自己的记忆输入，无论是文件名的前缀、后缀或其他任意部分，结果即时呈现。在大量文件中寻找某个文件或寻找很久以前名称以及已模糊的文件时，很有用。</li>
+<li>磁盘搜索：Listary 使用了与 Everything 类似的原理，因此可快速访问磁盘中各个角落的文件，无论硬盘多大、文件在多深的目录。这种特性非常适合于如今大容量硬盘、系统中常常包含几十上百万甚至更多文件的情况。</li>
+<li>快速切换：在文件管理器或文件打开/保存对话框中浏览时，可直接跳到任何文件夹，无论它们在其他驱动器或哪个位置，具体包括：<br>
 在文件对话框中，按 Ctrl+g 可立即跳转到文件管理器中正在浏览的文件夹。<br>
 在文件对话框中，切换到文件管理器并切换回来（无论以何种方式），对话框中会自动切换为刚才文件管理器中浏览的文件夹。<br>
 在文件对话框中，按 Ctrl+o 可直接打开之前在文件管理器中选择的文件。<br>
-在智能菜单中列出所有文件管理器中已打开的文件，方便快速访问。<br>
-收藏和历史：可收藏文件夹及自动保存文件夹访问历史，通过 Listary 工具栏快速访问收藏文件夹、资源管理器中的最近文件夹和最近打开的文件。<br>
-智能命令：包括了许多有用命令的集合，只需使用按键或单键点击鼠标即可访问，如打开命令行（以当前路径）、复制当前文件夹、显示隐藏文件等。提供了比资源管理器处理文件更好的方式。这里定义了许多快捷键供快速访问，用户也可根据情况自定义。<br>
-随心访问：可在任意位置、通过各种方式快速访问文件和文件夹，如在桌面、文件管理器、打开/保存对话框的空白处双击鼠标左键或点击中键打开菜单，或通过热键调用菜单。<br>
-Total Commander 集成：使用 Total Commander 可完全代替文件对话框浏览功能，具体操作如下：<br>
+在智能菜单中列出所有文件管理器中已打开的文件，方便快速访问。</li>
+<li>收藏和历史：可收藏文件夹及自动保存文件夹访问历史，通过 Listary 工具栏快速访问收藏文件夹、资源管理器中的最近文件夹和最近打开的文件。</li>
+<li>智能命令：包括了许多有用命令的集合，只需使用按键或单键点击鼠标即可访问，如打开命令行（以当前路径）、复制当前文件夹、显示隐藏文件等。提供了比资源管理器处理文件更好的方式。这里定义了许多快捷键供快速访问，用户也可根据情况自定义。</li>
+<li>随心访问：可在任意位置、通过各种方式快速访问文件和文件夹，如在桌面、文件管理器、打开/保存对话框的空白处双击鼠标左键或点击中键打开菜单，或通过热键调用菜单。</li>
+<li>Total Commander 集成：使用 Total Commander 可完全代替文件对话框浏览功能，具体操作如下：<br>
 在文件对话框中，首先像平常那样选择文件类型过滤器，接着按 Win+o；<br>
 Listary 会在 TC 中的新标签页中打开当前文件夹并应用过滤器（必须确保 TC 在运行中）；<br>
 在 TC 中结束操作后再次按 Win+o，这样之前的文件对话框就会打开刚才在 TC 中选择的文件（未选择文件或者这是文件夹对话框则会切换到 TC 中浏览的文件夹）。<br>
-此外，同样支持快速切换包含的功能，并会自动添加 TC 的常用文件夹到 Listary 中的收藏夹中。</p>
-<p>Listary Pro 专业版在特别版基础上增加以下功能并提供多项服务：<br>
-项目管理：将频繁访问的文件夹添加到项目（即设置访问关键字）后，可在任何位置通过该关键字搜索该文件夹及其子文件夹中的所有内容。这样排除了未使用关键字限定文件夹进行搜索时得到的许多无关结果。<br>
-快捷操作：在选择文件/文件夹后按右方向键，即可像搜索文件那样快捷定位并执行上下文菜单中的各种操作。在该菜单中除了包含资源管理器上下文菜单中的功能外，还包含了许多常用的默认命令，如打开文件或复制路径等。<br>
-模糊导航：无需记得文件名中空格位置、甚至不输入空格或仅输入文件名的几个残缺部分，如搜索“photoshop”时输入“ptshp”；或在“My Listary”及其子文件夹中搜索“readme”文件时输入“Listaryreadme”。<br>
-更多：使用子菜单组织收藏夹、自动选择上次打开/保存的文件、增加自定义命令等。</p>
+此外，同样支持快速切换包含的功能，并会自动添加 TC 的常用文件夹到 Listary 中的收藏夹中。</li>
+</ul>
+<p>Listary Pro 专业版在特别版基础上增加以下功能并提供多项服务：</p>
+<ul>
+<li>项目管理：将频繁访问的文件夹添加到项目（即设置访问关键字）后，可在任何位置通过该关键字搜索该文件夹及其子文件夹中的所有内容。这样排除了未使用关键字限定文件夹进行搜索时得到的许多无关结果。</li>
+<li>快捷操作：在选择文件/文件夹后按右方向键，即可像搜索文件那样快捷定位并执行上下文菜单中的各种操作。在该菜单中除了包含资源管理器上下文菜单中的功能外，还包含了许多常用的默认命令，如打开文件或复制路径等。</li>
+<li>模糊导航：无需记得文件名中空格位置、甚至不输入空格或仅输入文件名的几个残缺部分，如搜索“photoshop”时输入“ptshp”；或在“My Listary”及其子文件夹中搜索“readme”文件时输入“Listaryreadme”。</li>
+<li>更多：使用子菜单组织收藏夹、自动选择上次打开/保存的文件、增加自定义命令等。</li>
+</ul>
 <h2 id="5mathpix">5.Mathpix</h2>
-<p>在平时学习过程中难免会用到公式，有些公式太复杂，手打很麻烦，效率太低下，这时候我们就需要Mathpix (https://tcs459163616.GitHub.io/post-images/1594544926051.gif)Mathpix还是有一定的失误率，所以还是稍微懂一点基本的LaTex语法，可以自己稍加修改，下面的网址可以去了解一下基本语法，https://math-on-quora.surge.sh/#introduction</p>
+<p>在平时学习过程中难免会用到公式，有些公式太复杂，手打很麻烦，效率太低下，这时候我们就需要Mathpix，官网是<a href="https://tcs459163616.GitHub.io/post-images/1594545113335.gif">Mathpix</a>Mathpix还是有一定的失误率，所以还是稍微懂一点基本的LaTex语法，可以自己稍加修改，下面的两个网址可以去了解一下基本语法：<br>
+https://math-on-quora.surge.sh/#introduction<br>
+http://www.hostmath.com/<br>
+需要注意的是Mathtype中需要设置一下以支持LaTex，如下所示，在Mathtype的偏好，工作区偏好设置中勾选允许从键盘输入Tex语言。<img src="https://tcs459163616.GitHub.io/post-images/1594545835193.png" alt="" loading="lazy"></p>
+<h2 id="6-天若ocr">6 天若OCR</h2>
+<p>写文章难免需要复制粘贴，对于有些pdf、网页不允许复制文字，或者复制后格式全乱了，那么这个软件可以满足你的需求，并且还自带翻译。下载链接<a href="https://lanzous.com/i3861le">天若OCR</a>。<br>
+软件介绍：</p>
+<ul>
+<li>1.默认F4(<strong>笔记本可能是Fn+F4！！！！！</strong>)进行截图识别（托盘可自定义快捷键）</li>
+<li>2.识别文字框，左上角按钮有识图后拆分、合并、百度、截图等功能</li>
+<li>3.翻译文字框，左上角按钮更换翻译语种，支持英、日、韩。（有道接口可以识别日语、韩语）</li>
+<li>4.在托盘中可以设置快捷键，加载动画，截图识别后自动翻译、截图文件保存位置</li>
+<li>5.文本发送功能使用如下：<br>
+①点击文本需要发送的文本框，例如word、记事本、网页的文本框等<br>
+②点击发送按钮，可以将软件内的文本发送到光标所在的位置</li>
+</ul>
+<p>OCR接口：</p>
+<ul>
+<li>1、搜狗ocr接口，ocr.shouji.sogou.com/v2/ocr/json，识别效果好，但对于图片的尺寸有规定。</li>
+<li>2、腾讯ocr接口，比较准确，但是速度比较慢。</li>
+<li>3、百度ocr接口，比较准确，但是标点符号识别不准确，速度一般。</li>
+<li>4、有道ocr接口，速度很快，平均0.3-0.4秒就可识别出来，但是接口受ip请求的限制。<br>
+下面以百度文库为例，<img src="https://tcs459163616.GitHub.io/post-images/1594546737253.gif" alt="" loading="lazy"><br>
+下面是识别英文并翻译，<img src="https://tcs459163616.GitHub.io/post-images/1594546878464.gif" alt="" loading="lazy"><br>
+需要注意的是，天若OCR自带有百度的OCR密钥，是公共密钥，可能失效，所以最好自己去申请一个密钥。在菜单栏鼠标选中软件右键，打开设置，选择接口申请<img src="https://tcs459163616.GitHub.io/post-images/1594547062122.png" alt="" loading="lazy"><br>
+操作如下，<img src="https://tcs459163616.GitHub.io/post-images/1594547503942.png" alt="" loading="lazy"><br>
+除了天若OCR，<a href="https://miao520.lanzous.com/b015f3htg#s75w">Panda OCR</a>也不错，功能也很强大，自己去下载研究。<br>
+<img src="https://tcs459163616.GitHub.io/post-images/1594548110494.png" alt="" loading="lazy"><br>
+下面是国内的几个常用API版接口申请：</li>
+<li>搜狗OCR/翻译：<a href="http://deepi.sogou.com">http://deepi.sogou.com</a></li>
+<li>腾讯OCR/翻译：<a href="https://ai.qq.com">https://ai.qq.com</a> [腾讯云翻译：<a href="https://cloud.tencent.com">https://cloud.tencent.com</a>]</li>
+<li>百度OCR/翻译：<a href="https://cloud.baidu.com">https://cloud.baidu.com</a> [百度翻译：<a href="http://api.fanyi.baidu.com">http://api.fanyi.baidu.com</a>]</li>
+<li>有道OCR/翻译：<a href="http://ai.youdao.com">http://ai.youdao.com</a></li>
+</ul>
+<h1 id="二-网址">二、网址</h1>
 ]]></content>
     </entry>
     <entry>
