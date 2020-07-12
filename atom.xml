@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tcs459163616.GitHub.io</id>
     <title>Gridea</title>
-    <updated>2020-07-12T10:26:14.119Z</updated>
+    <updated>2020-07-12T10:33:14.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tcs459163616.GitHub.io"/>
     <link rel="self" href="https://tcs459163616.GitHub.io/atom.xml"/>
@@ -56,9 +56,10 @@ Listary 会在 TC 中的新标签页中打开当前文件夹并应用过滤器�
 <li>更多：使用子菜单组织收藏夹、自动选择上次打开/保存的文件、增加自定义命令等。</li>
 </ul>
 <h2 id="5mathpix">5.Mathpix</h2>
-<p>在平时学习过程中难免会用到公式，有些公式太复杂，手打很麻烦，效率太低下，这时候我们就需要Mathpix，官网是<a href="https://tcs459163616.GitHub.io/post-images/1594549526944.gif">Mathpix</a>Mathpix还是有一定的失误率，所以还是稍微懂一点基本的LaTex语法，可以自己稍加修改，下面的两个网址可以去了解一下基本语法：<br>
+<p>在平时学习过程中难免会用到公式，有些公式太复杂，手打很麻烦，效率太低下，这时候我们就需要Mathpix，官网是<a href="https://mathpix.com/">Mathpix</a>。Mathpix还是有一定的失误率，所以还是稍微懂一点基本的LaTex语法，可以自己稍加修改，下面的两个网址可以去了解一下基本语法：<br>
 https://math-on-quora.surge.sh/#introduction<br>
 http://www.hostmath.com/<br>
+下图是展示效果图，<img src="https://tcs459163616.GitHub.io/post-images/1594549802438.gif" alt="" loading="lazy"><br>
 需要注意的是Mathtype中需要设置一下以支持LaTex，如下所示，在Mathtype的偏好，工作区偏好设置中勾选允许从键盘输入Tex语言。<img src="https://tcs459163616.GitHub.io/post-images/1594545835193.png" alt="" loading="lazy"></p>
 <h2 id="6-天若ocr">6 天若OCR</h2>
 <p>写文章难免需要复制粘贴，对于有些pdf、网页不允许复制文字，或者复制后格式全乱了，那么这个软件可以满足你的需求，并且还自带翻译。下载链接<a href="https://lanzous.com/i3861le">天若OCR</a>。<br>
